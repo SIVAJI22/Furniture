@@ -1,0 +1,43 @@
+#con5{
+    background-color: aliceblue;
+    padding: 10px;
+    height: 420px;
+}
+.world{
+    margin-left: 100px;
+    margin-top: 90px;
+}
+.world span{
+    margin-left: 80px;
+    padding: 10px;
+}
+.world button{
+    margin-top: 100px;
+    width: 200px;
+    border-radius: 10px;
+    margin-left: 50px;
+    padding: 10px;
+}
+.red1{
+    margin-top: -575px;
+    margin-left: -330px;
+}
+.red2{
+    margin-top: -250px;
+    margin-left: 310px;
+    
+}
+#yellow{
+    height: 400px;
+}
+.table{
+    margin-top: -250px;
+    margin-left: 100px;
+    width: 250px;
+    height: 300px;
+}
+#sofa7{
+width: 600px;
+height: 300px;
+margin-top: 80px;
+}

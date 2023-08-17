@@ -1,0 +1,158 @@
+
+#con2{
+    padding: 20px;
+  
+}
+/* 
+.bedcontainer1 span{
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+} */
+#sofa{
+    margin-left: 50px;
+    text-decoration: none;
+    color: black;
+}
+
+#tv{
+    margin-left: 15px;
+    text-decoration: none;
+    color: black;
+
+}
+#study{
+    margin-left: 30px;
+    text-decoration: none;
+    color: black;
+
+}
+#bed{
+    margin-left: 30px;
+    text-decoration: none;
+    color: black;
+
+}
+.dining{
+    margin-left: 25px;
+    text-decoration: none;
+    color: black;
+
+}
+#lamp{
+    margin-top: 40px;
+    margin-left: 0px;
+    text-decoration: none;
+    color: black;
+
+}
+#chair{
+    margin-left: 15px;
+
+    text-decoration: none;
+    color: black;
+
+}
+.showracks{
+    margin-top: 10px;
+    margin-left: 25px;
+    text-decoration: none;
+    color: black;
+
+}
+.bedcontainer1  {
+    margin-left: 100px;
+    padding: 30px;
+}
+
+#bedcontainer {
+padding: 20px;
+margin-left: 50px;
+margin-top: 10px;
+background-color: white;
+}
+
+.chair{
+    position: relative;
+margin-top: -100px;
+   margin-left: -3px;
+}
+
+
+.Longsofa{
+
+    width: 550px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 30px;
+/*     
+    background-color:RGB( 252, 204, 247  )
+    ; */
+    background-color: RGB( 254, 221, 250)  ;
+}
+
+.Longsofa1{
+
+    width: 550px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 50px;
+
+    background-color: RGB(221, 226, 254)
+}
+.Most{
+    margin-left: -15px;
+    margin-top: 5px;
+}
+#sofa1{
+    width: 360px;
+    height: 250px;
+    margin-left: 130px;
+    margin-top: -270px;
+}
+#offer{
+    width: 140px;
+    height: 90px;
+
+     margin-left: -100px;
+     margin-top: -80px;
+}
+#sofa2{
+    width: 230px;
+    height: 230px;
+    margin-left: 200px;
+    margin-top: -230px;
+}
+#oneforyou{
+    margin-left: 13px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}
+#Long{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}
+#buynow{
+    width: 150px;
+    padding: 3px;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 20px;
+    margin-left: 5px;
+}
+#specialchair{
+    margin-left: 14px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}
+.diningchair{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    
+}
+.trending{
+    margin-left: 530px;
+  font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
